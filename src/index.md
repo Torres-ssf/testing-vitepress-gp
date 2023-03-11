@@ -4,8 +4,6 @@
   const url = `https://fuellabs.github.io/sway/v${sway}/book/forc/index.html`
 </script>
 
-![Fuels-ts SDK logo](./public/fuels-ts-logo.png)
-
 ## Version
 
 This doc was generated using Fuels `v{{fuels}}`, Fuel Core `v{{fuelCore}}`, Sway `v{{sway}}`, and Forc `v{{forc}}`.
