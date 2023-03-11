@@ -3,6 +3,7 @@ import { codeInContextPlugin } from './plugins/codeInContextPlugin';
 import { snippetPlugin } from './plugins/snippetPlugin';
 
 export default defineConfig({
+  base: '/testing-vitepress-gp/',
   title: 'Fuels-ts',
   srcDir: 'src',
   outDir: 'dist',
