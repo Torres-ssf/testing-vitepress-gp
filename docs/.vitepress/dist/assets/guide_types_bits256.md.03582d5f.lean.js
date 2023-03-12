@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as s}from"./app.1b12a468.js";const b=JSON.parse('{"title":"Bits256","description":"","frontmatter":{},"headers":[],"relativePath":"guide/types/bits256.md","lastUpdated":1678640713000}'),r={name:"guide/types/bits256.md"},o=s("",4),d=[o];function i(c,n,p,_,l,h){return t(),a("div",null,d)}const f=e(r,[["render",i]]);export{b as __pageData,f as default};
