@@ -6,8 +6,8 @@
   "author": "Torres-ssf <sergio.uft@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "vitepress dev",
-    "build": "vitepress build"
+    "start": "vitepress dev docs",
+    "build": "vitepress build docs"
   },
   "devDependencies": {
     "@types/markdown-it": "^12.2.3",
