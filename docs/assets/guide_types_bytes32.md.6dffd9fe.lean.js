@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s,a}from"./app.1b12a468.js";const u=JSON.parse('{"title":"Bytes32","description":"","frontmatter":{},"headers":[],"relativePath":"guide/types/bytes32.md","lastUpdated":1678647917000}'),o={name:"guide/types/bytes32.md"},c=a("",4),d=[c];function r(n,i,_,h,l,p){return t(),s("div",null,d)}const b=e(o,[["render",r]]);export{u as __pageData,b as default};
