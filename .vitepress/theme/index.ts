@@ -1,4 +1,11 @@
 import DefaultTheme from 'vitepress/theme';
-import './custom.css';
+// @ts-ignore
+import styleComponents from './styleComponents.vue';
 
-export default DefaultTheme;
+export default {
+  ...DefaultTheme,
+
+  enhanceApp({ app }) {
+    app.component('styleComponents', styleComponents)
+  },
+}

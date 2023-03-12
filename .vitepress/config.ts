@@ -1,7 +1,6 @@
 import { defineConfig } from 'vitepress';
 import { codeInContextPlugin } from './plugins/codeInContextPlugin';
 import { snippetPlugin } from './plugins/snippetPlugin';
-import './theme/custom.css';
 
 export default defineConfig({
   base: '/testing-vitepress-gp/',
