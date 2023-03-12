@@ -6,9 +6,9 @@
   "author": "Torres-ssf <sergio.uft@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "vitepress dev docs",
-    "build": "vitepress build docs",
-    "preview": "vitepress preview docs"
+    "start": "vitepress dev src",
+    "build": "vitepress build src",
+    "preview": "vitepress preview src"
   },
   "devDependencies": {
     "@types/markdown-it": "^12.2.3",
