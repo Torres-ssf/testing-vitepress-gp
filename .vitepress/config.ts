@@ -1,12 +1,11 @@
 import { defineConfig } from 'vitepress';
 import { codeInContextPlugin } from './plugins/codeInContextPlugin';
 import { snippetPlugin } from './plugins/snippetPlugin';
+import './theme/custom.css';
 
 export default defineConfig({
   base: '/testing-vitepress-gp/',
   title: 'Fuels-ts',
-  srcDir: 'src',
-  outDir: 'dist',
   lang: 'en-US',
   lastUpdated: true,
   markdown: {
@@ -18,8 +17,6 @@ export default defineConfig({
   },
   head: [
     ['link', { rel: 'icon', href: 'favicon.ico', type: 'image/png' }],
-    ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:url', content: 'https://fuellabs.github.io/fuels-ts/' }],
   ],
   themeConfig: {
     logo: 'fuel-logo.png',
