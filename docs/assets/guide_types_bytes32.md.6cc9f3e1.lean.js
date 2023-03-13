@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,a as e}from"./app.a85cfb4e.js";const C=JSON.parse('{"title":"Bytes32","description":"","frontmatter":{},"headers":[],"relativePath":"guide/types/bytes32.md"}'),l={name:"guide/types/bytes32.md"},o=e("",7),p=[o];function t(r,c,y,i,A,F){return a(),n("div",null,p)}const d=s(l,[["render",t]]);export{C as __pageData,d as default};

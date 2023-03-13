@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,a as l}from"./app.a85cfb4e.js";const i=JSON.parse('{"title":"Logs","description":"","frontmatter":{},"headers":[],"relativePath":"guide/contracts/logs.md"}'),p={name:"guide/contracts/logs.md"},o=l("",9),e=[o];function t(c,r,y,D,F,C){return a(),n("div",null,e)}const u=s(p,[["render",t]]);export{i as __pageData,u as default};

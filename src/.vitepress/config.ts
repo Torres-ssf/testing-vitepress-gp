@@ -3,8 +3,9 @@ import { codeInContextPlugin } from './plugins/codeInContextPlugin';
 import { snippetPlugin } from './plugins/snippetPlugin';
 
 export default defineConfig({
-  base: '/testing-vitepress-gp/',
   title: 'Fuels-ts',
+  description: 'FuelLabs Typescript SDK',
+  base: '/fuels-ts/',
   lang: 'en-US',
   lastUpdated: true,
   outDir: '../dist',

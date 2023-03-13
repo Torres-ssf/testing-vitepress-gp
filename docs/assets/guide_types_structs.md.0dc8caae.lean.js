@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,a as p}from"./app.a85cfb4e.js";const F=JSON.parse('{"title":"Structs","description":"","frontmatter":{},"headers":[],"relativePath":"guide/types/structs.md"}'),e={name:"guide/types/structs.md"},l=p("",8),o=[l];function t(r,c,i,y,C,D){return n(),a("div",null,o)}const A=s(e,[["render",t]]);export{F as __pageData,A as default};
