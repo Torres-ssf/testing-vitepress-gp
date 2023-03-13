@@ -7,7 +7,7 @@ export default defineConfig({
   title: 'Fuels-ts',
   lang: 'en-US',
   lastUpdated: true,
-  outDir: '../docs',
+  outDir: '../dist',
   markdown: {
     config: (md) => {
       md.use(snippetPlugin);
