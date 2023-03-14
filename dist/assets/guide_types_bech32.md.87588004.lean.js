@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as e,a as n}from"./app.a85cfb4e.js";const F=JSON.parse('{"title":"Bech32","description":"","frontmatter":{},"headers":[],"relativePath":"guide/types/bech32.md"}'),l={name:"guide/types/bech32.md"},o=n("",9),p=[o];function t(r,c,i,d,y,D){return a(),e("div",null,p)}const u=s(l,[["render",t]]);export{F as __pageData,u as default};

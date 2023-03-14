@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as n,a as e}from"./app.a85cfb4e.js";const C=JSON.parse('{"title":"Messages","description":"","frontmatter":{},"headers":[],"relativePath":"guide/messages/index.md"}'),l={name:"guide/messages/index.md"},p=e("",5),o=[p];function t(r,c,i,y,F,d){return a(),n("div",null,o)}const A=s(l,[["render",t]]);export{C as __pageData,A as default};

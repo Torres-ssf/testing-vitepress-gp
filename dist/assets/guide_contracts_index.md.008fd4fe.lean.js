@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as n,a as e}from"./app.a85cfb4e.js";const F=JSON.parse('{"title":"Calling contracts","description":"","frontmatter":{},"headers":[],"relativePath":"guide/contracts/index.md"}'),l={name:"guide/contracts/index.md"},o=e("",12),t=[o];function p(c,r,i,y,D,d){return a(),n("div",null,t)}const C=s(l,[["render",p]]);export{F as __pageData,C as default};

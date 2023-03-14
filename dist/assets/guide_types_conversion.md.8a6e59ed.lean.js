@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as n,a as l}from"./app.a85cfb4e.js";const i=JSON.parse('{"title":"Converting native types","description":"","frontmatter":{},"headers":[],"relativePath":"guide/types/conversion.md"}'),p={name:"guide/types/conversion.md"},o=l("",4),e=[o];function t(r,c,y,A,F,D){return a(),n("div",null,e)}const d=s(p,[["render",t]]);export{i as __pageData,d as default};

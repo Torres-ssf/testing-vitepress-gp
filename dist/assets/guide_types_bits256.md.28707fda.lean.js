@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as n,a as l}from"./app.a85cfb4e.js";const C=JSON.parse('{"title":"Bits256","description":"","frontmatter":{},"headers":[],"relativePath":"guide/types/bits256.md"}'),e={name:"guide/types/bits256.md"},p=l("",9),o=[p];function t(r,c,y,i,A,D){return a(),n("div",null,o)}const d=s(e,[["render",t]]);export{C as __pageData,d as default};

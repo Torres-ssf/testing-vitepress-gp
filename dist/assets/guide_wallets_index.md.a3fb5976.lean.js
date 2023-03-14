@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a,a as n}from"./app.a85cfb4e.js";const f=JSON.parse('{"title":"Managing wallets","description":"","frontmatter":{},"headers":[],"relativePath":"guide/wallets/index.md"}'),s={name:"guide/wallets/index.md"},o=n("",5),r=[o];function i(l,c,d,p,h,g){return t(),a("div",null,r)}const m=e(s,[["render",i]]);export{f as __pageData,m as default};
